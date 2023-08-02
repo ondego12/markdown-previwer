@@ -59,8 +59,8 @@ And here. | Okay. | I think we get it.
 
 
 1. And there are numbered lists too.
-1. Use just 1s if you want!
-1. And last but not least, let's not forget embedded images:
+2. Use just 1s if you want!
+3. And last but not least, let's not forget embedded images:
 
 ![ondegoDev Logo](https://ondegoDev.com)
 
